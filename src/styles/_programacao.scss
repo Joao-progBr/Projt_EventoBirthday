@@ -1,0 +1,20 @@
+.programacao{
+    text-align: center;
+    padding: 80px 0;
+
+    &__title{
+        margin-bottom: 60px;
+
+    }
+    &__details{
+        
+        &__list{
+            margin-top: 60px;
+            list-style: none;
+
+            &__item{
+                margin-bottom: 8px;
+            }
+        }
+    }
+}
